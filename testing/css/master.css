@@ -1,8 +1,9 @@
 h1 {
-    color: blue;
+    color: rgb(0, 140, 255);
     font-size: 40px;
     font-family: cursive;
 }
- body {
-    background-color: #2f2f2f;
- }
+
+body {
+    background-color: #242424;
+}
